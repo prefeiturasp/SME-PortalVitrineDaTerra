@@ -1,0 +1,14 @@
+.online-estore-accordion-section-title {
+    display: block;
+    margin: 0 -12px;
+    padding: 13px 12px;
+    background-color: #ddd;
+    color: #555;
+    border-left: 0;
+    border-right: 0;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1;
+    text-transform: uppercase;
+}

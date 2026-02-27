@@ -1,0 +1,101 @@
+/**
+ * Admin Area Custom CSS
+*/
+.onlineestore-clearfix:before,
+.onlineestore-clearfix:after {
+    content: '';
+    display: table;
+}
+
+.onlineestore-clearfix:after {
+    clear: both;
+}
+
+#widget-list [id*='_online_estore_'] .widget-top, 
+#widget-list [id*='_online_estore_'] h3 {
+    background: rgba(191, 191, 191, 0.4);
+}
+
+/**
+ * Preloader 
+*/
+.onlineestore-preloader {
+    width: 50px;
+    display: block;
+    float: left;
+    padding: 14px;
+    background: #FFFFFF;
+    height: 50px;
+    margin: 1px;
+    text-align: center;
+    border: 3px solid #C5C5C5;
+}
+.onlineestore-preloader:hover, 
+.onlineestore-preloader.active {
+    border-color:#ff7d0d;
+}
+
+/**
+ * Widget Label Custom Design
+*/
+span.field-label {
+    background: #4696b3;
+    display: block;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.onlineestore-single-checkbox {
+    height: 150px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 0 10px;
+}
+
+/**
+ * Upload image section on widget
+*/
+.widget-content .attachment-media-view{
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.widget-content .placeholder{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    border: 1px dashed #b4b9be;
+    box-sizing: border-box;
+    padding: 9px 0;
+    line-height: 20px;
+}
+.widget-content .actions{
+    margin-top: 8px;
+}
+
+/**
+ * Selector section on widget
+*/
+.widget-content .selector-labels label {
+    display: inline-block;
+    padding: 10px 5px 0;
+    position: relative;
+    max-width: 50%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.widget-content .selector-labels label.selector-selected:after {
+    content: "";
+    height: 35px;
+    width: 35px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    background: url(../images/selected.png) no-repeat right top;
+}

@@ -1,0 +1,17 @@
+version: '3.3'
+services:
+    vitrinedaterra:
+        restart: always
+        env_file:
+            - ../env_vitrinedaterra
+        container_name: vitrinedaterra
+        ports:
+            - '8085:80'
+        volumes:
+            - '../nfs/vitrinedaterra-dev/uploads:/var/www/html/wp-content/uploads'
+            - '../nfs/vitrinedaterra-dev/plugins:/var/www/html/wp-content/plugins'
+            - '../nfs/vitrinedaterra-dev/languages:/var/www/html/wp-content/languages'
+            - '../nfs/vitrinedaterra-dev/fonts:/var/www/html/wp-content/fonts'
+        image: wordpress/vitrinedaterra
+        build:
+            context: .

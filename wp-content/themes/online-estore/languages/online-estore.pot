@@ -1,0 +1,2702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Online eStore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-02 15:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: inc/library/customizer-builder/class-customizer-builder.php:241
+msgid " Add a Item"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:650
+msgid "%"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: sparklethemes/widgets/bestsellingproducts.php:24
+msgid "&#9733; Best Selling Products"
+msgstr ""
+
+#: sparklethemes/widgets/products-type.php:24
+msgid "&#9733; Newest Products"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:24
+msgid "&#9733; On Sale Products"
+msgstr ""
+
+#: sparklethemes/widgets/multiple-category-products.php:24
+msgid "&#9733; Products By Category"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:24
+msgid "&#9733; Products Type By Category"
+msgstr ""
+
+#: sparklethemes/widgets/topratedproducts.php:24
+msgid "&#9733; Top Rated Products"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:22
+msgid "&bull; About Us Info"
+msgstr ""
+
+#: sparklethemes/widgets/blogs-widget.php:24
+msgid "&bull; Blog Posts Widget"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:24
+msgid "&bull; Category Collection"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:24
+msgid "&bull; Full Promo Widget Block"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:24
+msgid "&bull; Promo Widget Block"
+msgstr ""
+
+#: sparklethemes/widgets/single-category-products.php:24
+msgid "&bull; Single Category Products"
+msgstr ""
+
+#: sparklethemes/widgets/multiple-category-tabs.php:24
+msgid "&bull; Tabs Category"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:24
+msgid "&bull; Tabs Products type"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:101
+msgid "(Optional - Leave blank to display \"Feature Products\")"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:88
+msgid "(Optional - Leave blank to display \"Latet Products\")"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:114
+msgid "(Optional - Leave blank to display \"On Sale Products\")"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:127
+msgid "(Optional - Leave blank to display \"UpSale Products\")"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:96
+#: sparklethemes/core/template-tags.php:116
+msgid ", "
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:98
+msgid "1:2 (Layout)"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:97
+msgid "1:3 (Layout)"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:99
+msgid "2:1 (Layout)"
+msgstr ""
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: sparklethemes/functions.php:451 sparklethemes/functions.php:504
+msgid "404 Error"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:20
+msgid "A widget shows personal information with social media icons."
+msgstr ""
+
+#: sparklethemes/widgets/blogs-widget.php:21
+msgid "A widget that display latest blogs posts slider and list layout"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:21
+msgid "A widget that promote you busincess"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:21
+msgid "A widget that promote you busincess with different layout promo image"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:53
+msgid "About Us Short Text"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:47
+msgid "About Us Title"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:328
+msgid "Account"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:27
+msgid "Account Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:10
+msgid "Account(Login/Register)"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:172
+#: inc/customizer/header-options/secondary-menu.php:193
+msgid "Active & Hover Color"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1209
+msgid "Add New Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:640
+msgid "Add New Slider"
+msgstr ""
+
+#: functions.php:131 functions.php:141 functions.php:152 functions.php:163
+#: functions.php:173 functions.php:183 functions.php:193
+msgid "Add widgets here."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2090
+#: inc/customizer/header-options/header-search.php:30
+msgid "Advance Search ( With Category )"
+msgstr ""
+
+#: inc/options.php:261
+msgid "After"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:88
+msgid "After Login Text"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:32
+msgid "Ajax Search"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:539
+#: inc/customizer/header-options/site-identity.php:79
+#: inc/customizer/header-options/header-cart.php:68
+#: inc/customizer/header-options/header-search.php:114
+msgid "Alignment"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:300
+#: inc/customizer/header-options/header-hooks.php:62
+msgid "All Categories"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1620
+msgid "Archive/Category Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1644
+msgid "Archive/Category Sidebars"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:245
+msgid "Attachment"
+msgstr ""
+
+#: inc/options.php:50 inc/options.php:169
+msgid "Auto"
+msgstr ""
+
+#: 404.php:29
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:194
+#: inc/customizer/header-options/secondary-menu.php:215
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:152
+#: inc/customizer/header-options/header-top.php:282
+#: inc/customizer/header-options/header-bottom.php:247
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:126
+#: inc/customizer/header-options/header-cart.php:269
+#: inc/customizer/header-options/header-main.php:65
+#: inc/customizer/header-options/header-account.php:155
+#: inc/customizer/header-options/button-one.php:202
+#: inc/customizer/header-options/button-one.php:205
+#: inc/customizer/header-options/header-top.php:251
+#: inc/customizer/header-options/header-bottom.php:221
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:202
+msgid "Background Colors"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:90
+msgid "Background Effect"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:130
+#: inc/customizer/header-options/header-top.php:260
+#: inc/customizer/header-options/header-bottom.php:225
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:119
+#: inc/customizer/header-options/header-bottom.php:214
+msgid "Background Option"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:95
+#: inc/customizer/header-options/header-main.php:29
+#: inc/customizer/header-options/header-top.php:198
+#: inc/customizer/header-options/header-top.php:218
+#: inc/customizer/header-options/header-bottom.php:168
+#: inc/customizer/header-options/header-bottom.php:188
+msgid "Background Options"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:163
+#: inc/customizer/header-options/header-main.php:106
+#: inc/customizer/header-options/header-top.php:293
+#: inc/customizer/header-options/header-bottom.php:258
+msgid "Background Overlay Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:140
+#: inc/customizer/header-options/header-top.php:270
+#: inc/customizer/header-options/header-bottom.php:235
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:146
+#: inc/customizer/header-options/header-top.php:276
+#: inc/customizer/header-options/header-bottom.php:241
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:134
+#: inc/customizer/header-options/header-top.php:264
+#: inc/customizer/header-options/header-bottom.php:229
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:47
+msgid "Background Type"
+msgstr ""
+
+#: inc/options.php:260
+msgid "Before"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:107
+msgid "Before Login Text"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:35
+msgid "Block Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:957
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:216
+#: inc/customizer/header-options/header-top.php:332
+#: inc/customizer/header-options/header-bottom.php:298
+msgid "Border & Box"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:197
+#: inc/customizer/header-options/header-top.php:312
+#: inc/customizer/header-options/header-bottom.php:277
+msgid "Border & Box Options"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:202
+msgid "Border & Box Shadow"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:182
+msgid "Border & Box Shadow Options"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:237
+#: inc/customizer/header-options/header-main.php:251
+#: inc/customizer/header-options/button-one.php:203
+#: inc/customizer/header-options/button-one.php:206
+#: inc/customizer/header-options/header-top.php:367
+#: inc/customizer/header-options/header-bottom.php:333
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:242
+#: inc/customizer/header-options/header-main.php:255
+#: inc/customizer/header-options/header-top.php:371
+#: inc/customizer/header-options/header-bottom.php:337
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:209
+#: inc/customizer/header-options/header-main.php:223
+#: inc/customizer/header-options/header-top.php:339
+#: inc/customizer/header-options/header-bottom.php:305
+msgid "Border Style"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:214
+#: inc/customizer/header-options/header-main.php:228
+#: inc/customizer/header-options/header-top.php:344
+#: inc/customizer/header-options/header-bottom.php:310
+msgid "Border Width"
+msgstr ""
+
+#: inc/options.php:80
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/options.php:78
+msgid "Bottom Left"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:113
+#: sparklethemes/widgets/multiplecategorylist.php:101
+#: sparklethemes/widgets/products-type.php:100
+#: sparklethemes/widgets/blogs-widget.php:108
+#: sparklethemes/widgets/tabs-products-type.php:167
+#: sparklethemes/widgets/bestsellingproducts.php:84
+#: sparklethemes/widgets/single-category-products.php:107
+#: sparklethemes/widgets/multiple-category-products.php:94
+#: sparklethemes/widgets/multiple-category-tabs.php:124
+#: sparklethemes/widgets/onsaleproducts.php:113
+#: sparklethemes/widgets/allproductstype.php:110
+#: sparklethemes/widgets/topratedproducts.php:84
+msgid "Bottom Padding Default (35px)"
+msgstr ""
+
+#: inc/options.php:79
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:264
+#: inc/customizer/header-options/header-main.php:278
+#: inc/customizer/header-options/header-top.php:394
+#: inc/customizer/header-options/header-bottom.php:360
+msgid "Box Shadow Color"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:82
+msgid "Boxed Background"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:189
+msgid "Boxed Layout"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:942
+msgid "Breadcrumbs Layout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:874
+msgid "Breadcrumbs Nav Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:845
+msgid "Breadcrumbs Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:819
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:136
+msgid "Button Alignment"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:117
+msgid "Button Close Text"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:190
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:94
+msgid "Button CSS Class "
+msgstr ""
+
+#: inc/customizer/header-options/header-defaults.php:1033
+#: inc/customizer/header-options/header-builder.php:398
+#: inc/customizer/header-options/button-one.php:9
+msgid "Button One"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:114
+msgid "Button One Styling"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:24
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:60
+msgid "Button URL"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:580
+#: inc/customizer/header-options/header-cart.php:11
+#: inc/customizer/header-options/header-cart.php:122
+#: inc/customizer/header-options/header-builder.php:422
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:111
+msgid "Cart Indicator Option"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:262
+msgid "Cart Settings"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:188
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:61
+msgid "Category"
+msgstr ""
+
+#: inc/options.php:72 inc/options.php:281
+#: sparklethemes/customizer/customizer.php:2040
+#: inc/customizer/header-options/site-identity.php:70
+msgid "Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:280
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:279
+msgid "Center Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:278
+msgid "Center Top"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:223
+msgid "Change Image"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:94
+msgid "Checked To Disable Feature Products"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:81
+msgid "Checked To Disable Latest Products"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:107
+msgid "Checked To Disable On Sale Products"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:120
+msgid "Checked To Disable UpSale Products"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:228
+msgid "Choose Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1271
+#: sparklethemes/customizer/customizer.php:1400
+#: sparklethemes/customizer/customizer.php:1576
+#: sparklethemes/customizer/customizer.php:1645
+#: sparklethemes/customizer/customizer.php:1699
+#: sparklethemes/customizer/customizer.php:1754
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:121
+msgid "Clear"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:122
+msgid "Clear color"
+msgstr ""
+
+#: sparklethemes/functions.php:1011 sparklethemes/customizer/customizer.php:352
+#: sparklethemes/mobile-menu/mobile-menu.php:7
+#: inc/customizer/header-options/header-vertical-menu.php:107
+#: inc/custom-controller/group/class-control-group.php:270
+#: inc/custom-controller/repeater/class-repeater.php:342
+#: inc/library/customizer-builder/class-customizer-builder.php:163
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:35
+#: inc/customizer/header-options/secondary-menu.php:39
+#: inc/customizer/header-options/menu-icon.php:136
+#: inc/customizer/header-options/header-account.php:135
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:50
+msgid "Color Background"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:126
+msgid "Color value"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sparklethemes/core/woocommerce.php:707
+msgid "Compare"
+msgstr ""
+
+#: inc/options.php:52
+#: inc/custom-controller/background-control/background-control.php:269
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/header-options/site-identity.php:26
+#: inc/customizer/header-options/header-cart.php:29
+#: inc/customizer/header-options/header-vertical-menu.php:23
+msgid "Content"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:971
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:53 template-parts/content.php:74
+#: template-parts/content-search.php:46 template-parts/content-search.php:67
+#: template-parts/layout/content-masonry.php:40
+#: template-parts/layout/content-twogrid.php:41
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: sparklethemes/functions.php:708
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:288
+msgid "Count Background"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:234
+msgid "Count Margin"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:292
+msgid "Count Text Color"
+msgstr ""
+
+#: inc/options.php:51
+#: inc/custom-controller/background-control/background-control.php:268
+msgid "Cover"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:1054
+msgid "Create Your Account"
+msgstr ""
+
+#: inc/options.php:170 inc/options.php:302
+msgid "Custom"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:78
+msgid "Custom Angle Spread"
+msgstr ""
+
+#: inc/customizer/header-options/header-top.php:244
+msgid "Custom Background Options"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:73
+msgid "Custom Link"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:790 sparklethemes/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/options.php:146
+msgid "Dashed"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:123
+#: inc/custom-controller/background-control/background-control.php:225
+#: inc/custom-controller/background-control/background-control.php:267
+msgid "Default"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:85
+msgid "Define Custom Angle"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:57
+msgid "Define Gradient Colors"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:59
+msgid "Define Gradient Direction"
+msgstr ""
+
+#: sparklethemes/functions.php:1010
+#: inc/custom-controller/repeater/class-repeater.php:341
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/header-options/header-notice-settings.php:32
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:439
+#: inc/library/customizer-builder/class-customizer-builder.php:136
+msgid "Desktop"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:109
+#: sparklethemes/customizer/customizer.php:283
+#: sparklethemes/customizer/customizer.php:804
+#: sparklethemes/customizer/customizer.php:848
+#: sparklethemes/customizer/customizer.php:877
+#: sparklethemes/customizer/customizer.php:1064
+#: sparklethemes/customizer/customizer.php:1095
+#: sparklethemes/customizer/customizer.php:1126
+#: sparklethemes/customizer/customizer.php:1174
+#: sparklethemes/customizer/customizer.php:1816
+#: sparklethemes/customizer/customizer.php:2071
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:89
+#: inc/customizer/header-options/secondary-menu.php:92
+msgid "Disable Sub Menu Item"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:21
+msgid ""
+"Display a grid & slide of Latest, Features, OnSale, UpSale from your "
+"selected categories."
+msgstr ""
+
+#: sparklethemes/widgets/multiple-category-products.php:21
+msgid "Display a grid & slide view of products from your selected categories."
+msgstr ""
+
+#: sparklethemes/widgets/bestsellingproducts.php:21
+msgid "Display a grid & slider view of your best products."
+msgstr ""
+
+#: sparklethemes/widgets/products-type.php:21
+msgid "Display a grid & slider view of your newest products."
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:21
+msgid "Display a grid & slider view of your on sale products."
+msgstr ""
+
+#: sparklethemes/widgets/topratedproducts.php:21
+msgid "Display a grid & slider view of your top rated products."
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:75
+#: sparklethemes/widgets/products-type.php:67
+#: sparklethemes/widgets/blogs-widget.php:75
+#: sparklethemes/widgets/bestsellingproducts.php:51
+#: sparklethemes/widgets/single-category-products.php:74
+#: sparklethemes/widgets/multiple-category-products.php:75
+#: sparklethemes/widgets/onsaleproducts.php:79
+#: sparklethemes/widgets/topratedproducts.php:51
+msgid "Display Block Layouts"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:96
+msgid "Display Icon Only & Show by click on icon"
+msgstr ""
+
+#: sparklethemes/widgets/blogs-widget.php:93
+msgid "Display Number Blog Column"
+msgstr ""
+
+#: sparklethemes/widgets/multiple-category-products.php:68
+msgid "Display Number Column"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:86
+#: sparklethemes/widgets/tabs-products-type.php:152
+#: sparklethemes/widgets/single-category-products.php:92
+#: sparklethemes/widgets/multiple-category-tabs.php:109
+msgid "Display Number Products Column"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1462
+msgid "Display Number Related Product"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1510
+msgid "Display Number Upsells Product"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:21
+msgid "Displays ( Latest, Features, Onsale, Upsale ) products tabs layouts."
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:21
+msgid ""
+"Displays multiple selected category collection in list and slider display "
+"layouts."
+msgstr ""
+
+#: sparklethemes/widgets/multiple-category-tabs.php:21
+msgid "Displays multiple selected category tabs display layouts."
+msgstr ""
+
+#: sparklethemes/widgets/single-category-products.php:21
+msgid "Displays single category products in list and slider display layouts."
+msgstr ""
+
+#: inc/options.php:145
+msgid "Dotted"
+msgstr ""
+
+#: inc/options.php:147
+msgid "Double"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:41 sparklethemes/core/template-tags.php:154
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:108
+#: sparklethemes/customizer/customizer.php:282
+#: sparklethemes/customizer/customizer.php:803
+#: sparklethemes/customizer/customizer.php:847
+#: sparklethemes/customizer/customizer.php:876
+#: sparklethemes/customizer/customizer.php:1063
+#: sparklethemes/customizer/customizer.php:1094
+#: sparklethemes/customizer/customizer.php:1125
+#: sparklethemes/customizer/customizer.php:1173
+#: sparklethemes/customizer/customizer.php:1815
+#: sparklethemes/customizer/customizer.php:2070
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:158
+#: inc/customizer/header-options/header-top.php:288
+#: inc/customizer/header-options/header-bottom.php:253
+msgid "Enable Overlay"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:93
+msgid "Enable Parallax"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:26
+msgid "Enable Search"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2002
+msgid "Enable Social Icon Text"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:39
+msgid "Enable Tab"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:106
+msgid "Enable/Disable option for pre loader section."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:280
+msgid "Enable/Disable option for vertical menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:801
+msgid "Enable/Disable Slider Content Animation."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1986
+msgid "Enable/Disable Social Icon Text"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:65
+msgid "Enter Block Button Text"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:66
+msgid "Enter block button text. ( Optional - Leave blank to hide the button )"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:72
+msgid "Enter Block Button Url"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:60
+#: sparklethemes/widgets/products-type.php:52
+#: sparklethemes/widgets/blogs-widget.php:60
+#: sparklethemes/widgets/tabs-products-type.php:64
+#: sparklethemes/widgets/bestsellingproducts.php:44
+#: sparklethemes/widgets/single-category-products.php:59
+#: sparklethemes/widgets/multiple-category-products.php:46
+#: sparklethemes/widgets/multiple-category-tabs.php:67
+#: sparklethemes/widgets/onsaleproducts.php:51
+#: sparklethemes/widgets/allproductstype.php:54
+#: sparklethemes/widgets/topratedproducts.php:44
+msgid "Enter Block Short Description"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:44
+msgid "Enter Block Sub Title"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:45
+msgid "Enter block sub-title. ( Optional - Leave blank to hide the sub-title )"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:52
+#: sparklethemes/widgets/products-type.php:45
+#: sparklethemes/widgets/blogs-widget.php:53
+#: sparklethemes/widgets/tabs-products-type.php:57
+#: sparklethemes/widgets/bestsellingproducts.php:37
+#: sparklethemes/widgets/single-category-products.php:52
+#: sparklethemes/widgets/multiple-category-products.php:39
+#: sparklethemes/widgets/multiple-category-tabs.php:60
+#: sparklethemes/widgets/onsaleproducts.php:37
+#: sparklethemes/widgets/allproductstype.php:47
+#: sparklethemes/widgets/topratedproducts.php:37
+msgid "Enter Block Title"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:114
+#: sparklethemes/widgets/multiplecategorylist.php:102
+#: sparklethemes/widgets/products-type.php:101
+#: sparklethemes/widgets/blogs-widget.php:109
+#: sparklethemes/widgets/tabs-products-type.php:168
+#: sparklethemes/widgets/bestsellingproducts.php:85
+#: sparklethemes/widgets/single-category-products.php:108
+#: sparklethemes/widgets/multiple-category-products.php:95
+#: sparklethemes/widgets/multiple-category-tabs.php:125
+#: sparklethemes/widgets/onsaleproducts.php:114
+#: sparklethemes/widgets/allproductstype.php:111
+#: sparklethemes/widgets/topratedproducts.php:85
+msgid ""
+"Enter Bottom Padding (exp : 35px) (Optional - Leave blank to Default "
+"(padding: 35px))"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:653
+#: sparklethemes/customizer/customizer.php:981
+msgid "Enter Button Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:659
+msgid "Enter Button Url"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1309
+msgid "Enter Display Number of Columns"
+msgstr ""
+
+#: sparklethemes/widgets/blogs-widget.php:86
+msgid "Enter Display Number of Posts"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:145
+#: sparklethemes/widgets/single-category-products.php:85
+#: sparklethemes/widgets/multiple-category-tabs.php:102
+msgid "Enter Display Number of Products"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1333
+msgid "Enter Display Number of Rows"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1356
+msgid "Enter Display Number Products"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:461
+msgid "Enter Email Address :"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:100
+msgid "Enter Feature Products Title"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:87
+msgid "Enter Latest Products Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:441
+msgid "Enter Map Address :"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:113
+msgid "Enter On Sale Products Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:481
+msgid "Enter Phone Number :"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1034
+msgid "Enter Posts Excerpt Length"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:43
+msgid "Enter Promo Block One Title"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:49
+msgid "Enter Promo Block One URL"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:81
+msgid "Enter Promo Block Three Title"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:87
+msgid "Enter Promo Block Three URL"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:62
+msgid "Enter Promo Block Two Title"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:68
+msgid "Enter Promo Block Two URL"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:52
+msgid "Enter Promo Button One Title"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:58
+msgid "Enter Promo Button One URL"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:65
+msgid "Enter Promo Button Two Title"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:71
+msgid "Enter Promo Button Two URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1486
+msgid "Enter Related Product Columns"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1438
+msgid "Enter Related Product Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1228
+msgid "Enter Services Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1222
+msgid "Enter Services Title"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:106
+#: sparklethemes/widgets/multiplecategorylist.php:94
+#: sparklethemes/widgets/products-type.php:93
+#: sparklethemes/widgets/blogs-widget.php:101
+#: sparklethemes/widgets/tabs-products-type.php:160
+#: sparklethemes/widgets/bestsellingproducts.php:77
+#: sparklethemes/widgets/single-category-products.php:100
+#: sparklethemes/widgets/multiple-category-products.php:87
+#: sparklethemes/widgets/multiple-category-tabs.php:117
+#: sparklethemes/widgets/onsaleproducts.php:106
+#: sparklethemes/widgets/allproductstype.php:103
+#: sparklethemes/widgets/topratedproducts.php:77
+msgid ""
+"Enter Top Padding (exp : 40px) (Optional - Leave blank to Default (padding: "
+"0px))"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:126
+msgid "Enter UpSale Products Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1533
+msgid "Enter Upsells Product Columns"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:502
+msgid "Enter Working Hours :"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:61
+#: sparklethemes/widgets/products-type.php:53
+#: sparklethemes/widgets/blogs-widget.php:61
+#: sparklethemes/widgets/tabs-products-type.php:65
+#: sparklethemes/widgets/bestsellingproducts.php:45
+#: sparklethemes/widgets/single-category-products.php:60
+#: sparklethemes/widgets/multiple-category-products.php:47
+#: sparklethemes/widgets/multiple-category-tabs.php:68
+#: sparklethemes/widgets/onsaleproducts.php:52
+#: sparklethemes/widgets/allproductstype.php:55
+#: sparklethemes/widgets/topratedproducts.php:45
+msgid ""
+"Enter your block description. (Optional - Leave blank to hide the "
+"description.)"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:53
+#: sparklethemes/widgets/products-type.php:46
+#: sparklethemes/widgets/blogs-widget.php:54
+#: sparklethemes/widgets/tabs-products-type.php:58
+#: sparklethemes/widgets/bestsellingproducts.php:38
+#: sparklethemes/widgets/single-category-products.php:53
+#: sparklethemes/widgets/multiple-category-products.php:40
+#: sparklethemes/widgets/multiple-category-tabs.php:61
+#: sparklethemes/widgets/onsaleproducts.php:38
+#: sparklethemes/widgets/allproductstype.php:48
+#: sparklethemes/widgets/topratedproducts.php:38
+msgid "Enter your block title. (Optional - Leave blank to hide the title.)"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:258
+msgid "Essential Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1916
+msgid "Facebook"
+msgstr ""
+
+#: sparklethemes/functions.php:558
+msgid "facebook"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:60
+msgid "Facebook URL"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:37
+msgid "Feature Products"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:54
+msgid "First Tab"
+msgstr ""
+
+#: inc/options.php:124
+#: inc/custom-controller/background-control/background-control.php:283
+msgid "Fixed"
+msgstr ""
+
+#: inc/options.php:370
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/options.php:25
+msgid "Fluid Width"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:254
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:151
+msgid "Font Size(px)"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1871
+msgid "Footer Content (Copyright Text)"
+msgstr ""
+
+#: functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1813
+msgid "Footer Widgert Area Option"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:171
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:58
+msgid ""
+"For a gradient, at least one starting and one end color should be defined."
+msgstr ""
+
+#: inc/customizer/header-options/header-html.php:19
+msgid "Free Hand Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:578
+msgid "Full Slider"
+msgstr ""
+
+#: inc/options.php:24
+msgid "Full Width"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:81
+msgid "Full Width Background"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:188
+msgid "FullWidth Layout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:166
+#: sparklethemes/customizer/customizer.php:773
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:51
+#: inc/customizer/header-options/header-main.php:77
+msgid "Gradient Background"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:60
+msgid "Gradient Preview"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:447
+#: inc/customizer/header-options/header-bottom.php:10
+msgid "Header Bottom"
+msgstr ""
+
+#: inc/customizer/header-options/header-bottom.php:28
+msgid "Header Bottom Height"
+msgstr ""
+
+#: inc/customizer/header-options/header-bottom.php:76
+msgid "Header Bottom Height (px)"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:434
+#: inc/customizer/header-options/header-builder.php:488
+#: inc/customizer/header-options/header-builder.php:509
+msgid "Header Builder"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:477
+msgid "Header Builder / Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-bottom.php:395
+msgid "Header Elements"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:10
+msgid "Header General "
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:51
+msgid "Header General Width"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:70
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:446
+msgid "Header Main"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:30
+msgid "Header Position"
+msgstr ""
+
+#: inc/customizer/header-options/header-top.php:13
+msgid "Header Rows"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:445
+#: inc/customizer/header-options/header-top.php:24
+msgid "Header Top"
+msgstr ""
+
+#: inc/customizer/header-options/header-top.php:91
+msgid "Header Top Height (px)"
+msgstr ""
+
+#: inc/customizer/header-options/header-top.php:61
+#: inc/customizer/header-options/header-bottom.php:46
+msgid "Height Option"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1550
+msgid "Home Page Blog Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1575
+msgid "Home Page Blog Sidebars"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:94
+msgid "Horizontal Moving"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:77
+msgid "Horizontal Spread (Left To Right)"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/custom-controller/color-tab/color-tab.php:148
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:160
+#: inc/customizer/header-options/primary-menu.php:217
+#: inc/customizer/header-options/secondary-menu.php:181
+#: inc/customizer/header-options/secondary-menu.php:238
+msgid "Hover & Active BG Color"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:228
+#: inc/customizer/header-options/secondary-menu.php:249
+msgid "Hover & Active Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:414
+#: inc/customizer/header-options/header-html.php:6
+msgid "HTML"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://sparklewpthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://sparklewpthemes.com/wordpress-themes/online-estore"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:64
+msgid "I am searching for..."
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:250
+msgid "Ico Font"
+msgstr ""
+
+#: inc/options.php:239
+msgid "Icon"
+msgstr ""
+
+#: inc/options.php:240
+msgid "Icon & Text"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:140
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:128
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:43
+msgid "Icon Position"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:84
+msgid "Icon Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:277
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:162
+msgid "Icon Size (px)"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:89
+#: inc/customizer/header-options/menu-icon.php:120
+#: inc/customizer/header-options/header-account.php:48
+msgid "Icon/Text Alignment"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:52
+msgid "Image Background"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:251
+msgid "Image preview"
+msgstr ""
+
+#. 1: list of categories.
+#: sparklethemes/core/template-tags.php:99
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:69
+msgid "Indicator Option"
+msgstr ""
+
+#: inc/options.php:28
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:286
+#: inc/customizer/header-options/header-main.php:300
+#: inc/customizer/header-options/header-top.php:416
+#: inc/customizer/header-options/header-bottom.php:382
+msgid "INSET"
+msgstr ""
+
+#: inc/options.php:149
+msgid "Inset"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1928
+msgid "Instagram"
+msgstr ""
+
+#: sparklethemes/functions.php:586
+msgid "instagram"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:84
+msgid "Instagram URL"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:49
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:159
+#: inc/custom-controller/repeater/class-repeater.php:317
+msgid "Latest Posts"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:35
+msgid "Latest Products"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:77
+msgid "Layout Five"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2024
+#: inc/customizer/header-options/header-general.php:76
+msgid "Layout Four"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:558
+#: sparklethemes/customizer/customizer.php:925
+#: sparklethemes/customizer/customizer.php:2021
+#: sparklethemes/widgets/multiplecategorylist.php:36
+#: sparklethemes/widgets/blogs-widget.php:37
+#: sparklethemes/widgets/tabs-products-type.php:34
+#: sparklethemes/widgets/tabs-products-type.php:40
+#: sparklethemes/widgets/single-category-products.php:34
+#: sparklethemes/widgets/multiple-category-tabs.php:37
+#: sparklethemes/widgets/multiple-category-tabs.php:43
+#: inc/customizer/header-options/header-general.php:73
+#: inc/customizer/header-options/header-search.php:47
+#: inc/customizer/header-options/header-top.php:117
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:79
+msgid "Layout Seven"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:78
+msgid "Layout Six"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:560
+#: sparklethemes/customizer/customizer.php:2023
+#: sparklethemes/widgets/tabs-products-type.php:36
+#: sparklethemes/widgets/multiple-category-tabs.php:39
+#: inc/customizer/header-options/header-general.php:75
+#: inc/customizer/header-options/header-search.php:49
+msgid "Layout Three"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:559
+#: sparklethemes/customizer/customizer.php:926
+#: sparklethemes/customizer/customizer.php:2022
+#: sparklethemes/widgets/multiplecategorylist.php:37
+#: sparklethemes/widgets/blogs-widget.php:38
+#: sparklethemes/widgets/tabs-products-type.php:35
+#: sparklethemes/widgets/tabs-products-type.php:41
+#: sparklethemes/widgets/single-category-products.php:35
+#: sparklethemes/widgets/multiple-category-tabs.php:38
+#: sparklethemes/widgets/multiple-category-tabs.php:44
+#: inc/customizer/header-options/header-general.php:74
+#: inc/customizer/header-options/header-search.php:48
+#: inc/customizer/header-options/header-top.php:118
+msgid "Layout Two"
+msgstr ""
+
+#. %s: post title
+#: sparklethemes/core/template-tags.php:72
+#: sparklethemes/core/template-tags.php:137
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/options.php:280 sparklethemes/customizer/customizer.php:2039
+#: inc/customizer/header-options/site-identity.php:69
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:274
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/options.php:73
+#: inc/custom-controller/background-control/background-control.php:273
+msgid "Left Center"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1275
+#: sparklethemes/customizer/customizer.php:1404
+#: sparklethemes/customizer/customizer.php:1580
+#: sparklethemes/customizer/customizer.php:1649
+#: sparklethemes/customizer/customizer.php:1703
+#: sparklethemes/customizer/customizer.php:1758
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:272
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/header-options/header-general.php:232
+#: inc/customizer/header-options/header-general.php:259
+#: inc/customizer/header-options/header-main.php:246
+#: inc/customizer/header-options/header-main.php:273
+#: inc/customizer/header-options/header-top.php:362
+#: inc/customizer/header-options/header-top.php:389
+#: inc/customizer/header-options/header-bottom.php:328
+#: inc/customizer/header-options/header-bottom.php:355
+#: inc/custom-controller/group/class-control-group.php:307
+#: inc/custom-controller/cssbox/class-control-cssbox.php:116
+msgid "Link"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:72
+msgid "Linkedin URL"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:123
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:1050
+msgid "Login"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:329
+msgid "Login / Register"
+msgstr ""
+
+#: inc/customizer/header-options/site-identity.php:128
+msgid "Logo Max Width (%)"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:1044
+msgid "Logout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1835
+msgid "Main Footer Background Colors"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1786
+msgid "Main Footer Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-main.php:6
+msgid "Main Header"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:571
+msgid "Main Slider Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:212
+#: inc/customizer/header-options/header-main.php:153
+#: inc/customizer/header-options/header-search.php:198
+#: inc/customizer/header-options/header-top.php:154
+#: inc/customizer/header-options/header-bottom.php:124
+msgid "Margin"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:171
+#: inc/customizer/header-options/header-main.php:133
+#: inc/customizer/header-options/header-search.php:182
+#: inc/customizer/header-options/header-top.php:134
+#: inc/customizer/header-options/header-bottom.php:104
+msgid "Margin & Padding"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:262
+msgid "Material Icon"
+msgstr ""
+
+#: sparklethemes/mobile-menu/init.php:49
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:48
+#: inc/customizer/header-options/menu-icon.php:72
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:112
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:129
+#: inc/customizer/header-options/secondary-menu.php:150
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:390
+#: inc/customizer/header-options/menu-icon.php:23
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:10
+#: inc/customizer/header-options/header-builder.php:441
+msgid "Menu Icon Sidebar"
+msgstr ""
+
+#: inc/library/customizer-builder/class-customizer-builder.php:235
+msgid "Menu Icon Sidebar will display when Menu Icon is clicked on frontend"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon.php:61
+msgid "Menu Indicator Option"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:150
+msgid "Menu Item"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:230
+msgid "Menu Item Hover BG Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:244
+msgid "Menu Item Hover Text Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:136
+msgid "Menu Items"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:140
+#: inc/customizer/header-options/secondary-menu.php:161
+msgid "Menu Items Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:448
+msgid "Menu Sidebar"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:66
+msgid "Menu Title"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: sparklethemes/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: sparklethemes/mobile-menu/mobile-menu.php:24
+msgid "Mobile"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon.php:12
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:440
+#: inc/library/customizer-builder/class-customizer-builder.php:137
+msgid "Mobile/Tablet"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:789 sparklethemes/breadcrumbs.php:845
+#: sparklethemes/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:326
+#: inc/customizer/header-options/header-vertical-menu.php:56
+#: inc/customizer/header-options/header-vertical-menu.php:84
+msgid "More Categories"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1206
+msgid "More Services Settings"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:95
+msgid "Multiple classes added by space"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:1040
+#: inc/customizer/header-options/header-account.php:80
+msgid "My Account"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:251
+#: sparklethemes/core/woocommerce.php:942
+#: sparklethemes/widgets/products-type.php:148
+#: sparklethemes/widgets/tabs-products-type.php:225
+#: sparklethemes/widgets/allproductstype.php:171
+msgid "New"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:491
+msgid "New!"
+msgstr ""
+
+#: index.php:43 archive.php:38 search.php:36
+msgid "Next"
+msgstr ""
+
+#: single.php:51
+msgid "Next Post"
+msgstr ""
+
+#: sparklethemes/functions.php:970 sparklethemes/widgets/widget-fields.php:201
+#: inc/custom-controller/background-control/background-control.php:226
+#: inc/custom-controller/repeater/class-repeater.php:142
+msgid "No image selected"
+msgstr ""
+
+#: inc/options.php:100
+#: inc/custom-controller/background-control/background-control.php:261
+msgid "No Repeat"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1283
+#: sparklethemes/customizer/customizer.php:1412
+#: sparklethemes/customizer/customizer.php:1588
+#: sparklethemes/customizer/customizer.php:1657
+#: sparklethemes/customizer/customizer.php:1711
+#: sparklethemes/customizer/customizer.php:1766
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options.php:143 inc/options.php:301
+#: sparklethemes/customizer/customizer.php:988
+#: inc/customizer/header-options/header-main.php:92
+msgid "None"
+msgstr ""
+
+#: inc/options.php:368 inc/custom-controller/color-tab/color-tab.php:147
+msgid "Normal"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2089
+#: inc/customizer/header-options/header-search.php:31
+msgid "Normal Search"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:318
+msgid "Notice Bar"
+msgstr ""
+
+#: inc/customizer/header-options/header-notice-settings.php:6
+msgid "Notice Settings"
+msgstr ""
+
+#: sparklethemes/widgets/products-type.php:85
+#: sparklethemes/widgets/bestsellingproducts.php:69
+#: sparklethemes/widgets/onsaleproducts.php:98
+#: sparklethemes/widgets/allproductstype.php:95
+#: sparklethemes/widgets/topratedproducts.php:69
+msgid "Number of Column"
+msgstr ""
+
+#: sparklethemes/widgets/products-type.php:78
+#: sparklethemes/widgets/bestsellingproducts.php:62
+#: sparklethemes/widgets/multiple-category-products.php:61
+#: sparklethemes/widgets/onsaleproducts.php:91
+#: sparklethemes/widgets/allproductstype.php:88
+#: sparklethemes/widgets/topratedproducts.php:62
+msgid "Number of Products"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:38
+msgid "On Sale Products"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. Name of the theme
+msgid "Online eStore"
+msgstr ""
+
+#. Name of the template
+msgid "Online eStore - Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Online eStore HomePage"
+msgstr ""
+
+#: functions.php:150
+msgid "Online eStore HomePage Widget"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Online eStore is a clean, beautiful, and fully customizable responsive "
+"modern WooCommerce compatible WordPress theme. It is an esthetically "
+"minimalist, fresh-faced and bright, elegantly styled, and well-developed, "
+"readily responsive eCommerce WordPress store theme. It is a perfect theme "
+"for commercial endeavors of all kinds, from digital download shops to online "
+"commercial retail of all kinds. It integrates the industry standard "
+"WooCommerce, YITH WooCommerce Wishlist, YITH WooCommerce Quick View "
+"eCommerce plugin, a wonderful solution for all your online commerce needs, "
+"which allows your users to browse your product catalogs or store in easy, "
+"add items to their shopping carts intuitively, and proceed to checkout and "
+"make payments, all right off your website."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Oops! Nothing Found can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon.php:41
+msgid "Open Icon/Text Setting"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:78
+msgid "Open link in a new tab"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto Condensed, translate this to 'off'. Do not translate into your own language.
+#: functions.php:222
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon.php:80
+msgid "Open Text"
+msgstr ""
+
+#: inc/options.php:150
+msgid "outset"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:190
+#: inc/customizer/header-options/header-main.php:176
+#: inc/customizer/header-options/header-search.php:219
+#: inc/customizer/header-options/header-top.php:177
+#: inc/customizer/header-options/header-bottom.php:147
+msgid "Padding"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1674
+msgid "Page & Post Layout Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1698
+msgid "Page & Post Sidebars"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1606
+msgid "Page Design Settings"
+msgstr ""
+
+#: template-parts/content-page.php:28
+msgid "Pages:"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1934
+msgid "Pinterest"
+msgstr ""
+
+#: sparklethemes/functions.php:600
+msgid "pinterest"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:73
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:244
+msgid "Position"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:990
+msgid "Post Content"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1007
+msgid "Post Description"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:989
+msgid "Post Excerpt"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1123
+msgid "Post Meta Author"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1092
+msgid "Post Meta Comments"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1061
+msgid "Post Meta Date"
+msgstr ""
+
+#. 1: list of categories.
+#: sparklethemes/core/template-tags.php:119
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:105
+msgid "Pre Loader Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:136
+msgid "Preloader Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:79
+msgid "Preloader Settings"
+msgstr ""
+
+#: index.php:42 archive.php:37 search.php:35
+msgid "Prev"
+msgstr ""
+
+#: single.php:44
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:11
+#: inc/customizer/header-options/header-builder.php:348
+msgid "Primary Menu"
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:134
+#: sparklethemes/widgets/multiple-category-tabs.php:91
+#: sparklethemes/widgets/allproductstype.php:77
+msgid "Product Display Layouts"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:184
+#: sparklethemes/widgets/multiplecategorylist.php:189
+msgid "Products"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:406
+msgid "Quick Contact Info"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:422
+msgid "Quick Contact Information"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1171
+msgid "Quick Services Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1144
+msgid "Quick Services Settings"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:29
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:99
+msgid "Register"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1428
+msgid "Related Products"
+msgstr ""
+
+#: sparklethemes/functions.php:976 sparklethemes/widgets/widget-fields.php:208
+#: inc/custom-controller/background-control/background-control.php:224
+#: inc/custom-controller/repeater/class-repeater.php:148
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:254
+msgid "Remove Image"
+msgstr ""
+
+#: inc/options.php:101
+#: inc/custom-controller/background-control/background-control.php:242
+msgid "Repeat"
+msgstr ""
+
+#: inc/options.php:102
+msgid "Repeat X"
+msgstr ""
+
+#: inc/options.php:103
+msgid "Repeat Y"
+msgstr ""
+
+#: inc/options.php:148
+msgid "Ridge"
+msgstr ""
+
+#: inc/options.php:282 sparklethemes/customizer/customizer.php:2041
+#: inc/customizer/header-options/site-identity.php:71
+msgid "Right"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:277
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/options.php:74
+#: inc/custom-controller/background-control/background-control.php:276
+msgid "Right Center"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1279
+#: sparklethemes/customizer/customizer.php:1408
+#: sparklethemes/customizer/customizer.php:1584
+#: sparklethemes/customizer/customizer.php:1653
+#: sparklethemes/customizer/customizer.php:1707
+#: sparklethemes/customizer/customizer.php:1762
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:275
+msgid "Right Top"
+msgstr ""
+
+#: functions.php:226
+msgctxt "Rochester font: on or off"
+msgid "on"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:256
+#: sparklethemes/core/woocommerce.php:496
+msgid "Sale!"
+msgstr ""
+
+#: inc/options.php:123
+#: inc/custom-controller/background-control/background-control.php:284
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:382
+msgid "Search"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1729
+msgid "Search Page Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1753
+msgid "Search Page Sidebar"
+msgstr ""
+
+#. %s is the search query.
+#: sparklethemes/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/header-options/header-hooks.php:110
+msgid "Search results will appear here"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:7
+msgid "Search Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:16
+msgid "Search Type"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:67
+msgid "Second Tab"
+msgstr ""
+
+#: inc/customizer/header-options/secondary-menu.php:12
+#: inc/customizer/header-options/secondary-menu.php:133
+#: inc/customizer/header-options/header-builder.php:356
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/customizer/header-options/secondary-menu.php:114
+msgid "Secondary Menu Alignment"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2035
+msgid "Select Alignment"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:77
+msgid "Select Block Products Type"
+msgstr ""
+
+#: sparklethemes/widgets/fullpromo.php:44
+msgid "Select Block Promo Page"
+msgstr ""
+
+#: sparklethemes/widgets/single-category-products.php:66
+msgid "Select Block Single Category"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:829
+msgid "Select Block Single Category "
+msgstr ""
+
+#: sparklethemes/widgets/tabs-products-type.php:72
+#: sparklethemes/widgets/multiple-category-tabs.php:75
+msgid "Select Block Tabs Style"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:44
+#: sparklethemes/widgets/blogs-widget.php:45
+#: sparklethemes/widgets/tabs-products-type.php:49
+#: sparklethemes/widgets/single-category-products.php:44
+#: sparklethemes/widgets/multiple-category-tabs.php:52
+msgid "Select Block Title Style"
+msgstr ""
+
+#: sparklethemes/widgets/blogs-widget.php:67
+msgid "Select Blog Posts Category"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:158
+msgid "Select Category"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:2055
+#: inc/custom-controller/alpha-color/class-alpha-color.php:125
+msgid "Select Color"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:124
+msgid "Select default color"
+msgstr ""
+
+#: sparklethemes/functions.php:977 sparklethemes/widgets/widget-fields.php:209
+#: inc/custom-controller/group/class-control-group.php:253
+#: inc/custom-controller/group/class-control-group.php:253
+#: inc/custom-controller/background-control/background-control.php:222
+#: inc/custom-controller/background-control/background-control.php:227
+#: inc/custom-controller/repeater/class-repeater.php:149
+msgid "Select Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:555
+#: sparklethemes/customizer/customizer.php:2017
+#: inc/customizer/header-options/header-search.php:43
+#: inc/customizer/header-options/header-top.php:114
+msgid "Select Layout"
+msgstr ""
+
+#: inc/customizer/header-options/menu-icon-sidebar-setting.php:86
+msgid "Select Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:49
+#: sparklethemes/widgets/fullpromo.php:35
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:69
+msgid "Select Primary Menu"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:34
+msgid "Select Product Type"
+msgstr ""
+
+#: sparklethemes/widgets/multiplecategorylist.php:67
+#: sparklethemes/widgets/multiple-category-products.php:53
+#: sparklethemes/widgets/multiple-category-tabs.php:83
+#: sparklethemes/widgets/allproductstype.php:61
+msgid "Select Products Category"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:69
+msgid "Select Products Type"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:93
+msgid "Select Promo Display Layout"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:26
+msgid "Select Search Type"
+msgstr ""
+
+#: inc/customizer/header-options/secondary-menu.php:72
+msgid "Select Secondary Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1216
+msgid "Select Services Icon"
+msgstr ""
+
+#: sparklethemes/functions.php:1120
+msgid "Select Single Category"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:647
+msgid "Select Slider Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1208
+msgid "Services Settings"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:26
+#: inc/customizer/header-options/secondary-menu.php:27
+msgid "Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1248
+msgid "Shop & Category Page Settings"
+msgstr ""
+
+#: inc/customizer/header-options/button-one.php:17
+msgid "Shop Now"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:94
+msgid "Show All Menu Text"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:145
+msgid "Show Count"
+msgstr ""
+
+#: inc/customizer/header-options/header-search.php:95
+msgid "Show Icon Only"
+msgstr ""
+
+#: inc/customizer/header-options/header-account.php:123
+msgid "Show Logout"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:156
+msgid "Show Price"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:365
+msgid "Show Vertical Menu (Category)"
+msgstr ""
+
+#: inc/customizer/header-options/header-hooks.php:224
+msgid "Sign in / Join"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1374
+msgid "Single Product Page Settings"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:339
+msgid "Site Identity and Logo"
+msgstr ""
+
+#: inc/customizer/header-options/site-identity.php:99
+msgid "Site Logo "
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:340
+msgid "Site Title, Tagline and Logo"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:243
+msgid "Size"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:595
+msgid "Slider Layout Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:636
+msgid "Slider Options Setting"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:639
+msgid "Slider Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:579
+msgid "Slider With Vertical Menu"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:373
+msgid "Social Icons"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1906
+msgid "Social Media settings"
+msgstr ""
+
+#: inc/options.php:144
+msgid "Solid"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: sparklethemes/functions.php:711
+msgid "Sparkle Themes"
+msgstr ""
+
+#. Author of the theme
+msgid "sparklewpthemes"
+msgstr ""
+
+#: inc/options.php:369
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/header-options/site-identity.php:38
+#: inc/customizer/header-options/header-cart.php:41
+#: inc/customizer/header-options/header-vertical-menu.php:33
+msgid "Style"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1891
+msgid "Sub Footer Background Colors"
+msgstr ""
+
+#: inc/customizer/header-options/primary-menu.php:184
+#: inc/customizer/header-options/secondary-menu.php:205
+msgid "Sub Menu"
+msgstr ""
+
+#. 1: list of tags.
+#: sparklethemes/core/template-tags.php:126
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/options.php:238 inc/customizer/header-options/header-cart.php:130
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:273
+#: inc/customizer/header-options/primary-menu.php:205
+#: inc/customizer/header-options/secondary-menu.php:226
+#: inc/customizer/header-options/button-one.php:204
+#: inc/customizer/header-options/button-one.php:207
+#: inc/customizer/header-options/header-top.php:255
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:216
+msgid "Text Colors"
+msgstr ""
+
+#: inc/customizer/header-options/header-cart.php:282
+msgid "Text Size"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:238
+msgid "Theme Primary Colors"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:222
+msgid "Themes Colors Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:760
+msgid "Themes Options"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:262
+msgid "Tile"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:263
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:264
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/customizer/header-options/header-notice-settings.php:19
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:163
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:177
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/customizer/header-options/site-identity.php:53
+msgid "Title/Tagline Color"
+msgstr ""
+
+#: inc/options.php:77
+msgid "Top Center"
+msgstr ""
+
+#: inc/customizer/header-options/header-top.php:42
+msgid "Top Header Height"
+msgstr ""
+
+#: inc/options.php:75
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:65
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:319
+msgid "Top Notice Bar"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:105
+#: sparklethemes/widgets/multiplecategorylist.php:93
+#: sparklethemes/widgets/products-type.php:92
+#: sparklethemes/widgets/blogs-widget.php:100
+#: sparklethemes/widgets/tabs-products-type.php:159
+#: sparklethemes/widgets/bestsellingproducts.php:76
+#: sparklethemes/widgets/single-category-products.php:99
+#: sparklethemes/widgets/multiple-category-products.php:86
+#: sparklethemes/widgets/multiple-category-tabs.php:116
+#: sparklethemes/widgets/onsaleproducts.php:105
+#: sparklethemes/widgets/allproductstype.php:102
+#: sparklethemes/widgets/topratedproducts.php:76
+msgid "Top Padding Default (0px)"
+msgstr ""
+
+#: inc/options.php:76
+msgid "Top Right"
+msgstr ""
+
+#: inc/options.php:371
+msgid "Transparent Header"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1922
+msgid "Twitter"
+msgstr ""
+
+#: sparklethemes/functions.php:572
+msgid "twitter"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:66
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/custom-controller/font-awesome-icon/font-awesome-icon.php:61
+#: inc/custom-controller/repeater/class-repeater.php:266
+msgid "Type to filter"
+msgstr ""
+
+#: sparklethemes/widgets/allproductstype.php:36
+msgid "Up Sell Products"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:41
+msgid "Upload About Us Image"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:58
+msgid "Upload Background Image"
+msgstr ""
+
+#: sparklethemes/widgets/onsaleproducts.php:59
+msgid ""
+"Upload block background image. ( Optional - Neglect Upload to Show block "
+"Without Background Image )"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:253
+msgid "Upload Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1852
+msgid "Upload Payment Logo Image"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:37
+msgid "Upload Promo One Image"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:75
+msgid "Upload Promo Three Image"
+msgstr ""
+
+#: sparklethemes/widgets/promo-widget.php:56
+msgid "Upload Promo Two Image"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:152
+msgid "Vertical Heading"
+msgstr ""
+
+#: functions.php:66 sparklethemes/customizer/customizer.php:279
+msgid "Vertical Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:362
+msgid "Vertical Menu Button Close Text"
+msgstr ""
+
+#: inc/customizer/header-options/header-vertical-menu.php:189
+msgid "Vertical Menu Items"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:254
+#: inc/customizer/header-options/header-vertical-menu.php:6
+msgid "Vertical Menu Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:336
+msgid "Vertical Menu Show All Menu Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:310
+msgid "Vertical Menu Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:407
+msgid "Vertical Menu Title Background Colors"
+msgstr ""
+
+#: inc/customizer/header-options/header-builder.php:364
+msgid "Vertical Menu(Category)"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:76
+msgid "Vertical Spread (Top to Bottom)"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:576
+msgid "View your shopping cart"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:388
+msgid "Visible Vertical Menu Items"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:180
+msgid "Website Layout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:205
+msgid "WebSite Page Layout"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: sparklethemes/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:740
+msgid "Wish List"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1270
+msgid "WooCommerce Archive/Category Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:65
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1399
+msgid "WooCommerce Single Product Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:800
+msgid "Wow Animate Options"
+msgstr ""
+
+#: sparklethemes/core/woocommerce.php:536
+msgid "write a preview"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:788 sparklethemes/breadcrumbs.php:817
+#: sparklethemes/breadcrumbs.php:844 sparklethemes/breadcrumbs.php:871
+#: sparklethemes/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1940
+msgid "YouTube"
+msgstr ""
+
+#: sparklethemes/functions.php:614
+msgid "youtube"
+msgstr ""
+
+#: sparklethemes/widgets/aboutus-info.php:78
+msgid "Youtube URL"
+msgstr ""

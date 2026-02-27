@@ -1,0 +1,27 @@
+.mapa-container {
+    position: relative;
+    width: 200px;
+    height: 230px;
+}
+
+.mapa-container .imagem-1,
+.mapa-container .imagem-2 {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.mapa-container .imagem-2 {
+    top: 0px;
+    left: 0px;
+}
+#area_atendimento div {
+    height: 35px;
+}
+
+#area_atendimento label {
+    min-width: 90px;
+    display: inline-block;
+}
