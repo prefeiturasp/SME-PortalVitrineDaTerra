@@ -15,27 +15,3 @@ services:
         image: wordpress/vitrinedaterra
         build:
             context: .
-#    db:
-#        image: mysql:latest
-#        container_name: db
-#        environment:
-#            MYSQL_ROOT_PASSWORD: 'AMcom25anos'
-#            MYSQL_DATABASE: vitrinedaterra_dev
-#            MYSQL_USER: usr_vitrinedaterra_dev
-#            MYSQL_PASSWORD: 'siuoHuMqb(EPtl3]'
-#        ports:
-#        - "3306:3306"
-#        volumes:
-#        - C:\git\Wordpress\nfs\db:/var/lib/mysql
-#    phpmyadmin:
-#        image: phpmyadmin/phpmyadmin
-#        container_name: pma
-#        links:
-#        - db
-#        environment:
-#            PMA_HOST: db
-#            PMA_PORT: 3306
-#            PMA_ARBITRARY: 1
-#        restart: always
-#        ports:
-#        - 8081:80
