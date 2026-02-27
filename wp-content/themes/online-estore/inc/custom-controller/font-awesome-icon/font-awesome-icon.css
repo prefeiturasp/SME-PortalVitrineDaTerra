@@ -1,0 +1,94 @@
+/*FontAwesome Icon Styles*/
+.online-estore-customizer-icon-box .online-estore-icon-box {
+    display: none;
+}
+
+.online-estore-customizer-icon-box .online-estore-type-icon {
+    overflow: hidden;
+}
+
+.online-estore-customizer-icon-box .online-estore-selected-icon {
+    background: #F6F6F6;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #EEE;
+    position: relative;
+    margin-right: 44px;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.online-estore-customizer-icon-box .online-estore-selected-icon span i {
+    line-height: 45px;
+}
+
+.online-estore-customizer-icon-box .online-estore-selected-icon span {
+    position: absolute;
+    background: #F6F6F6;
+    right: -45px;
+    top: -1px;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #EEE;
+    font-size: 16px;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-search {
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #EEE;
+    border-top: 0;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-search select {
+    margin-bottom: 10px;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-list {
+    height: 215px;
+    overflow-y: scroll;
+    font-size: 18px;
+    border: 1px solid #EEE;
+    background: #FFF;
+    border-right: 0;
+    border-top: 0;
+    padding-bottom: 4%;
+    display: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-list:first-of-type {
+    display: block;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-list li {
+    float: left;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #EEE;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 4px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-list li:hover {
+    background: #333;
+    border: 1px solid #333;
+    color: #FFF;
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
+.online-estore-customizer-icon-box .online-estore-icon-list li.icon-active {
+    background: #0073aa;
+    border: 1px solid #0073aa;
+    color: #FFF;
+}

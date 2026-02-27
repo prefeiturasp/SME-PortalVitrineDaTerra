@@ -1,0 +1,115 @@
+.online-estore-repeater-field-control {
+    background: #FFF;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.online-estore-repeater-footer {
+    margin-top: 15px;
+    text-align: right;
+    display: grid;
+}
+.online-estore-repeater-field-remove{
+    color:red;
+}
+
+.online-estore-repeater-field-control:first-child .online-estore-repeater-footer {
+    display: none;
+}
+
+.online-estore-repeater-field-title {
+    padding: 13px 15px;
+    line-height: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 0;
+    font-size: 1em;
+    border: 1px solid #e5e5e5;
+    cursor: move;
+    position: relative;
+    border-bottom: 0;
+}
+
+.online-estore-repeater-field-title:after {
+    content: "\f142";
+    font: 400 20px/1 dashicons;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 1px 2px 1px 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.online-estore-repeater-field-control.expanded .online-estore-repeater-field-title:after {
+    content: "\f140";
+}
+
+.online-estore-repeater-fields {
+    padding: 0 10px 10px;
+    border-top: none;
+    line-height: 16px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    display: none;
+}
+
+.online-estore-repeater-fields .customize-control-repeater-title {
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    margin-top: 10px;
+}
+
+.online-estore-repeater-field-control.expanded .online-estore-repeater-fields {
+    display: block;
+}
+
+.online-estore-add-control-field {
+    float: right;
+}
+
+.online-estore-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.online-estore-fields textarea {
+    width: 100%;
+    min-height: 100px;
+}
+
+.online-estore-fields select {
+    width: 100%;
+}
+
+.online-estore-fields .attachment-media-view {
+    background: none;
+}
+
+.online-estore-type-checkbox {
+    margin-top: 10px;
+}
+
+.online-estore-type-checkbox label {
+    line-height: 20px;
+    display: block;
+    margin-left: 24px;
+    padding-top: 6px;
+}
+
+.online-estore-type-checkbox input[type=checkbox] {
+    margin-right: 8px;
+    margin-left: -24px;
+}

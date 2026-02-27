@@ -1,0 +1,41 @@
+version: '3.3'
+services:
+    vitrinedaterra:
+        restart: always
+        env_file:
+            - ../env_vitrinedaterra
+        container_name: vitrinedaterra
+        ports:
+            - '8085:80'
+        volumes:
+            - '../nfs/vitrinedaterra-dev/uploads:/var/www/html/wp-content/uploads'
+            - '../nfs/vitrinedaterra-dev/plugins:/var/www/html/wp-content/plugins'
+            - '../nfs/vitrinedaterra-dev/languages:/var/www/html/wp-content/languages'
+            - '../nfs/vitrinedaterra-dev/fonts:/var/www/html/wp-content/fonts'
+        image: wordpress/vitrinedaterra
+        build:
+            context: .
+#    db:
+#        image: mysql:latest
+#        container_name: db
+#        environment:
+#            MYSQL_ROOT_PASSWORD: 'AMcom25anos'
+#            MYSQL_DATABASE: vitrinedaterra_dev
+#            MYSQL_USER: usr_vitrinedaterra_dev
+#            MYSQL_PASSWORD: 'siuoHuMqb(EPtl3]'
+#        ports:
+#        - "3306:3306"
+#        volumes:
+#        - C:\git\Wordpress\nfs\db:/var/lib/mysql
+#    phpmyadmin:
+#        image: phpmyadmin/phpmyadmin
+#        container_name: pma
+#        links:
+#        - db
+#        environment:
+#            PMA_HOST: db
+#            PMA_PORT: 3306
+#            PMA_ARBITRARY: 1
+#        restart: always
+#        ports:
+#        - 8081:80

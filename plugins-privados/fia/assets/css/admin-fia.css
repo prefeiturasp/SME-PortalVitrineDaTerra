@@ -1,0 +1,39 @@
+.woocommerce-product-type-tip,
+.woocommerce-help-tip,
+#product-type,
+#insert-media-button,
+#wp-content-media-buttons,
+.misc-pub-visibility,
+.misc-pub-curtime,
+#duplicate-action,
+#catalog-visibility,
+.product_data_tabs,
+#application-passwords-section,
+.user-rich-editing-wrap,
+.user-syntax-highlighting-wrap,
+.user-admin-color-wrap,
+.user-comment-shortcuts-wrap,
+.user-admin-bar-front-wrap,
+.user-language-wrap,
+.user-role-wrap,
+.user-nickname-wrap,
+.user-url-wrap,
+.user-description-wrap,
+.user-profile-picture,
+#your-profile h2,
+.post-type-product #wp-content-editor-tools {
+  display: none !important;
+}
+
+#area_atendimento div {
+  height: 35px;
+}
+
+#area_atendimento label {
+  min-width: 90px;
+  display: inline-block;
+}
+
+.postbox-header .hndle {
+  display: block;
+}
