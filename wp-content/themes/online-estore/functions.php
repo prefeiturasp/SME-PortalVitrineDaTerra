@@ -12,6 +12,9 @@ if ( ! defined( 'ONLINE_ESTORE_T_VERSION' ) ) {
 	define( 'ONLINE_ESTORE_T_VERSION', '1.0.0' );
 }
 
+add_filter( 'auto_update_plugin', '__return_false' );
+add_filter( 'auto_update_theme', '__return_false' );
+
 if ( ! function_exists( 'online_estore_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
