@@ -41,8 +41,9 @@ function buscar_produtos_com_validade_expirada()
     }
 
 }
+// A função abaixo é responsável por executar a retirada de produtos expirados da loja, caso deseje executar a funcao automaticamente, descomente a linha abaixo:
+//add_action('init', 'agendar_funcao_produtos_expirados');
 
-add_action('init', 'agendar_funcao_produtos_expirados');
 function agendar_funcao_produtos_expirados()
 {
     if (!wp_next_scheduled('executar_busca_produtos_expirados')) {
